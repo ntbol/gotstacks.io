@@ -1,0 +1,19 @@
+@font-face{
+  font-family: Regular;
+  src: url(C:\Coding\gotstacks.io\public\fonts\Regular.otf);
+}
+@font-face{
+  font-family: Medium;
+  src: url(C:\Coding\gotstacks.io\public\fonts\Medium.otf);
+}
+@font-face{
+  font-family: Bold;
+  src: url(C:\Coding\gotstacks.io\public\fonts\Bold.otf);
+}
+
+
+
+body {
+  margin: 0;
+  font-family: Regular;
+}
